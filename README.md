@@ -5,7 +5,7 @@ Un simulador financiero avanzado desarrollado en Python que reemplaza las proyec
 ##  El Problema que Resuelve
 La evaluación de proyectos tradicional asume un único escenario fijo (Ej: vender exactamente 100 unidades a $50.000). Este motor destruye esa linealidad ejecutando **10.000 iteraciones (realidades alternativas)** utilizando distribuciones triangulares para modelar el caos del mercado real, entregando una probabilidad matemática de éxito o fracaso.
 
-## ⚙️ Características Técnicas y Funcionales
+##  Características Técnicas y Funcionales
 * **Motor Estadístico (`numpy`):** Genera 10.000 flujos de caja iterativos en segundos.
 * **Lógica de Finanzas Corporativas:** Integra cálculo automático de CAPEX, Capital de Trabajo, Escudo Fiscal por depreciación y valor de desecho.
 * **Interfaz Gráfica Nativa (`tkinter`):** Interfaz amigable para ingreso rápido de variables críticas sin necesidad de tocar el código.
